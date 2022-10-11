@@ -5,7 +5,7 @@ Class project.
 - This is one of the projects I made during Data Anlysis course attending.
 - The project got a highest mark. 
 #### Project scope
-- E-commerce business analysis and scaling suggestions. 
+- E-commerce business analysis and scaling options. 
 #### Dataset and tools
 - Initial dataset was in form of SQL tables. 
 - PostgreSQL requests and Metabase for visualization. 
